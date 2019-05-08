@@ -9,6 +9,7 @@
   "author": "Cliff Crerar",
   "license": "ISC",
   "dependencies": {
+    "moment": "^2.24.0",
     "nativefier": "^7.6.12"
   }
 }
