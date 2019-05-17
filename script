@@ -1,1 +1,3 @@
 nativefier -n Material-UI-docs https://material-ui.com/ ./nativefied/material-ui-docs
+
+nativefier -n Azure-Cloud https://login.microsoftonline.com ./nativefied/Azure-Cloud --basic-auth-username cliff.crerar@gmail.com --basic-auth-password zxcqwe890
