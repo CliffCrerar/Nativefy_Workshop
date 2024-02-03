@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "moment": "^2.24.0",
-    "nativefier": "^8.0.0"
+    "nativefier": "^42.3.0"
   }
 }
